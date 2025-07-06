@@ -7,6 +7,8 @@ A modern, responsive web application for personal finance management with beauti
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7.0-47A248?style=for-the-badge&logo=mongodb)
 
+## 🖇️ Live link - https://personal-finance-visualizer-two-navy.vercel.app/
+
 ## ✨ Features
 
 ### 📊 **Dashboard Overview**
